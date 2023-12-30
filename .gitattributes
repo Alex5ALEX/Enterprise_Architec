@@ -1,0 +1,2 @@
+ENTERArchi.rsr filter=lfs diff=lfs merge=lfs -text
+ENTERArchi.rar filter=lfs diff=lfs merge=lfs -text
